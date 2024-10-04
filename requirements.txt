@@ -1,1 +1,15 @@
-pandas==2.0.2
+beautifulsoup4==4.12.3
+fastai==2.7.17
+fastprogress==1.0.3
+ipython==8.12.3
+ipywidgets==7.7.1
+librosa==0.10.2.post1
+matplotlib==3.7.1
+mayavoz==0.0.1
+numpy==2.1.1
+protobuf==3.20.3
+pydub==0.25.1
+pytorch_lightning==2.4.0
+Requests==2.32.3
+scipy==1.14.1
+soundfile==0.12.1
